@@ -1,0 +1,23 @@
+body {
+    background-color:rgb(161, 160, 160);
+    
+}
+
+
+.card {
+    border:solid   2px white  ;
+    padding:3px;
+    margin:0;
+    margin-top:10px;
+    border-radius:50px;
+    width:450px;
+    height:550px; 
+    text-align: right;
+    
+}
+
+.nicetomeetyou{
+    font-weight:bold;
+    font-size:35px;
+    text-align:center;
+}
