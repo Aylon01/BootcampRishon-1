@@ -13,6 +13,7 @@ body {
     width:450px;
     height:550px; 
     text-align: right;
+    font-weight:bold;
     
 }
 
@@ -20,4 +21,9 @@ body {
     font-weight:bold;
     font-size:35px;
     text-align:center;
+}
+
+.card[input]{
+
+    border:0;
 }
